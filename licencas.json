@@ -1,6 +1,7 @@
 {
   "aparelhos": {
     "QJFS-K1NX": {"nome": "Mac do Junior (desenvolvimento)", "status": "liberado", "validade": null},
-    "TSG3-195M": {"nome": "PC Windows do Junior", "status": "liberado", "validade": null}
+    "TSG3-195M": {"nome": "PC Windows do Junior", "status": "liberado", "validade": null},
+    "8R5Y-0AR3": {"nome": "Computador liberado em 2026-11-13", "status": "liberado", "validade": null}
   }
 }
